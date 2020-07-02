@@ -19,7 +19,6 @@ package com.wekkin.day05;
  *      5.计数器count的值增加1
  *      6.打印该数字
  *      7.for循环结束后,打印count的值
- *
  */
 public class day05test03 {
     public static void main(String[] args) {
