@@ -98,7 +98,7 @@ public class ConstantDemo {
         //输出布尔常量
         System.out.println(true);
         //输出字符串常量
-        System.out.println("欢迎来到黑马程序员");
+        System.out.println("你好程序员");
 	}
 }
 
